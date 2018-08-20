@@ -29,7 +29,7 @@ public class MainView extends UI {
         box.setValue(selectedItem);
 
         Label instruction = new Label("Vaadin 8.5.1" +
-                "\1:Click on the arrow down, to show the suggestions. DO NOT CLICK ON ANY OF SUGGESTIONS!" +
+                "\n1:Click on the arrow down, to show the suggestions. DO NOT CLICK ON ANY OF SUGGESTIONS!" +
                 "\nas you see, on the top of suggestions is item:1, you do not see the item which is set as value" +
                 "\n2: Click away, make the Combobox lose focus by mouse click" +
                 "\nThe combobox Text has to lose the Selection in browser" +
